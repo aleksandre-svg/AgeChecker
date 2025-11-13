@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+#root {background-color: #f0f0f0; height: 100vh; display: flex; justify-content: center; align-items: center;}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url("../public/fonts/Poppins-Bold.ttf");
+}
